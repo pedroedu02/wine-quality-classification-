@@ -1,1 +1,12 @@
 
+LIBRARYS UTILIZADAS:
+- pandas (manipulação dos dados)
+- numpy (operações numéricas)
+- matplotlib(visualizações e groaficos)
+- seaborn (visualizações estatísticas)
+- scipy (apoio às análises estatísticas)
+- scikit-learn (Treinamentos)
+
+Google Collab
+- jupyter 
+- ipython
